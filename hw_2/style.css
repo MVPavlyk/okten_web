@@ -1,0 +1,34 @@
+.row{
+    display: flex;
+}
+.pet{
+    width: 50%;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border: 5px solid chocolate;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+}
+p{
+    flex: 1;
+    text-align: justify;
+    font-size: 30px;
+}
+ul{
+    margin-top: 100px;
+    list-style: none;
+}
+li{
+    font-size: 20px;
+    margin: 10px 0;
+    color: firebrick;
+    cursor: pointer;
+}
+.list{
+    display: flex;
+    justify-content: center;
+}

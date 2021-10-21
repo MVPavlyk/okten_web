@@ -28,7 +28,6 @@ body > div{
     height: 100%;
 }
 #menu{
-    flex-grow: 1;
     background-color: darkorange;
 }
 #content{
@@ -37,8 +36,12 @@ body > div{
     flex-direction: column;
     row-gap: 15px;
 }
+
+.grow_1{
+    flex-grow: 1;
+}
+
 .post{
     width: 100%;
-    flex-grow: 1;
     background-color: darkred;
 }

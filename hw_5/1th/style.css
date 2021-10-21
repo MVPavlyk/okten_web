@@ -27,11 +27,14 @@
     display: flex;
     column-gap: 20px;
 }
-.block__b{
+
+.h_400{
     height: 400px;
+}
+
+.block__b{
     flex-grow: 2;
 }
 .block__c{
-    height: 400px;
     flex-grow: 1;
 }

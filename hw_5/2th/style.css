@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+body > div{
+    width: 100%;
+}
+
+.centralise{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centralise h2{
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.h_100{
+    height: 100px;
+}
+#header{
+    background-color: #0C65A7;
+}
+#nav{
+    background-color: #124B78;
+}
+#content{
+    height: 400px;
+    display: flex;
+}
+#content div{
+    height: 100%;
+}
+.main{
+    flex-grow: 3;
+    background-color: #16A2C5;
+}
+.aside{
+    flex-grow: 1;
+    background-color: #5275AD;
+}
+#footer{
+    background-color: #7CCCE3;
+}
+

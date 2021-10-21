@@ -1,0 +1,44 @@
+body > div{
+    width: 100%;
+}
+
+.c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c h2{
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+#header, #footer{
+    height: 150px;
+    background-color: cadetblue;
+}
+#main{
+    height: 400px;
+    display: flex;
+    column-gap: 15px;
+    margin: 15px 0;
+}
+#main > div{
+    height: 100%;
+}
+#menu{
+    flex-grow: 1;
+    background-color: darkorange;
+}
+#content{
+    flex-grow: 3;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.post{
+    width: 100%;
+    flex-grow: 1;
+    background-color: darkred;
+}

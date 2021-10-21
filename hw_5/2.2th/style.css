@@ -1,0 +1,31 @@
+
+body > div{
+    width: 100%;
+}
+
+.blue{
+    background-color: cornflowerblue;
+}
+.widget__top{
+    height: 150px;
+}
+.widgets__container{
+    height: 200px;
+    display: flex;
+    column-gap: 15px;
+    margin: 15px 0;
+}
+.widgets__container div{
+    height: 100%;
+    flex-grow: 1;
+}
+
+.widgets__container div:nth-child(2n){
+    background-color: crimson;
+}
+.widgets__container div:nth-child(2n + 1){
+    background-color: darkgreen;
+}
+.contact{
+    height: 300px;
+}

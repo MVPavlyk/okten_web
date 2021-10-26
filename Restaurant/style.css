@@ -175,9 +175,9 @@ body{
     column-gap: 30px;
     row-gap: 50px;
     box-sizing: border-box;
-    position: absolute;
+    position: relative;
     flex-wrap: wrap;
-    top: 640px;
+    top: -130px;
 }
 .intro_block{
     width: 340px;

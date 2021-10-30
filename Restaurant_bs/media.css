@@ -1,0 +1,24 @@
+@media screen and (max-width: 1000px){
+    .nav__content{
+        display: none;
+    }
+    .burger{
+        display: flex;
+    }
+    .main__title .container{
+        display: flex;
+        justify-content: center;
+    }
+    .main__page{
+        padding-top: 10px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .main__title_inner h2{
+        font-size: 35px;
+    }
+    .main__title_inner h1{
+        font-size: 45px;
+    }
+}

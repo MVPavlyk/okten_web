@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51a2be92-1c5f-4432-8d57-38a70bfe419e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/okten_web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/.idea/Restaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Restaurant_bs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Restaurant/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Restaurant/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurant/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="51a2be92-1c5f-4432-8d57-38a70bfe419e" name="Changes" comment="Restaurant bootstrap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +42,16 @@
       <option name="presentableId" value="Default" />
       <updated>1635583384282</updated>
       <workItem from="1635583385913" duration="214000" />
+      <workItem from="1635593681032" duration="687000" />
     </task>
+    <task id="LOCAL-00001" summary="Restaurant bootstrap">
+      <created>1635593744713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635593744713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +67,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Restaurant bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restaurant bootstrap" />
   </component>
 </project>

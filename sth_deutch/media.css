@@ -32,6 +32,7 @@
         align-items: center;
         text-align: center;
     }
+<<<<<<< HEAD
     .blue_block{
         flex-direction: column;
     }
@@ -71,6 +72,8 @@
     .unsere_text p{
         width: 90%;
     }
+=======
+>>>>>>> origin/master
 }
 
 @media(max-width: 500px){
@@ -82,6 +85,7 @@
         font-size: 13px;
         line-height: 20px;
     }
+<<<<<<< HEAD
 }
 
 @media(max-width: 430px){
@@ -99,4 +103,6 @@
     .ihre__block h5{
         font-size: 15px;
     }
+=======
+>>>>>>> origin/master
 }

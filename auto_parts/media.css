@@ -141,6 +141,15 @@
         width: 30%;
     }
 
+    .footer > .container{
+        flex-direction: column;
+        row-gap: 45px;
+    }
+
+    .feedback{
+        margin-top: 30px;
+    }
+
 }
 
 @media (max-width: 800px) {
@@ -267,6 +276,11 @@
         margin-bottom: 20px;
     }
 
+    .footer__left{
+        flex-direction: column;
+        row-gap: 30px;
+    }
+
 
 }
 
@@ -363,6 +377,15 @@
         font-size: 12px;
     }
 
+    .footer__contacts{
+        flex-direction: column;
+        row-gap: 30px;
+    }
+
+    .feedback__form{
+        flex-direction: column;
+    }
+
 }
 
 @media (max-width: 400px) {
@@ -372,6 +395,10 @@
 
     .b__slider_content > img {
         height: 120px;
+    }
+
+    .email__btn{
+        padding: 0 5px;
     }
 }
 

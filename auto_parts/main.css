@@ -431,6 +431,7 @@ body {
     margin-left: 27px;
     border-radius: var(--main_radius);
     background-color: var(--blue);
+    cursor: pointer;
 }
 
 /*________________SECOND SLIDER__________________*/
@@ -492,6 +493,7 @@ body {
     border-radius: var(--main_radius);
     background-color: var(--blue);
     width: fit-content;
+    cursor: pointer;
 }
 
 .goto__btn h4 {
@@ -790,6 +792,7 @@ body {
 
 .footer{
     background-color: var(--dark);
+    padding-bottom: 20px;
 }
 
 .footer > .container{
